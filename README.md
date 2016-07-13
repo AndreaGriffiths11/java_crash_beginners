@@ -1,4 +1,4 @@
-# java-crash-course-servlets
+# java-crash-course-beginners
 ### Link To This Page
 You can get to this page via:http://bit.ly/29vzNXQ
 
