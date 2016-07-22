@@ -7,6 +7,8 @@ You will need JAVA JDK installed on your machine.  we'll be using [JDK 8](http:/
 
 You will need an IDE (Integrated Development Enviroment).  I like Intellij, install [IntelliJ Community Edition](https://www.jetbrains.com/idea/download/)
 
+And this is a fun learning tool we will use, it's called [Greenfoot](http://www.greenfoot.org/download).  Download and install it as well.
+
 ### Download:
 Download this zip file, expand it.  you should end up with a folder that has the following important files:
 * java_crash_beginners.iml (java project)
