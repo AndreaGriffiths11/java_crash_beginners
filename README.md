@@ -96,7 +96,7 @@ The second variable is "MAX_LANDING_SPEED". Based on what we just went through, 
         // override in subclasses
     }
 ```
-* What do you thing that means? "// override in subclasses"
+* What do you think that means? "// override in subclasses"
 * Two forward slashes are one way to put comments in Java code.
 * Now lets add the method that allows the magic to happen. Add the following method right before the closing bracket.
 
@@ -197,7 +197,7 @@ The second variable is "MAX_LANDING_SPEED". Based on what we just went through, 
 * Lets initialize the Lander object in the constructor.
 
 ```java
-    lander = new Lander
+      lander = new Lander();
 ```
 * And change the ```java
 addObject(new Lander(), 326, 100); ``` to ```java
